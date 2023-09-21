@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning more
 - 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on many things
-- 📫 How to reach me - gkmartinez2417@gmail.com
 
 <!---
 Gabekm17/Gabekm17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
